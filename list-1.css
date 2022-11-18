@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-family: 'DM Sans'
+}
+ 
+body {
+    width: 1200px;
+    background: #E5E5E5;
+    margin: auto;
+    margin-bottom: 95px;
+    
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.img-hs {
+    background-image: url(./hs.\ \(1\).svg);
+    background-repeat: no-repeat;
+    width: 64px;
+    height: 50px;
+ 
+}
+
+.par {
+    display: flex;
+    font-family: 'DM Sans';
+    font-weight: 500;
+    font-size: 22px;
+    color: #181717;
+}
+
+.par p {
+    margin-right: 29px;
+    font: 500 22px 'DM Sans';
+    color: #181717;
+}
+
+.about {
+    margin-top: 70px;
+}
+
+h1 {
+   width: 254px;
+   height: 56;
+    font: 500 60px 'DM Sans';
+    color: #181717;
+}
+
+p {
+    width: 672px;
+    height: 26;
+     font: 400 22px 'DM Sans';
+     color: #606060;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer p {
+    margin-right: 29px;
+    font: 500 22px 'DM Sans';
+    color: #181717;
+}
+
+.box-1 p {
+    Font family: DM Sans;
+     color: #2429AF;
+}
